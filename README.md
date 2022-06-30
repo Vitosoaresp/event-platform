@@ -5,7 +5,7 @@ Este projeto trata-se de uma plataforma para voce exibir videos de um evento onl
 
 ## Técnologias usadas
 
-> Desenvolvido usando: ReactJS, TypeScript e Graphcms
+> Desenvolvido usando: ReactJS, TypeScript, Tailwind CSS e Graphcms
 
 ## Instalando Dependências
 
